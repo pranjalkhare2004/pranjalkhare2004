@@ -1,144 +1,112 @@
 <div align="center">
-  <img height="200" src="https://raw.githubusercontent.com/pranjalkhare2004/pranjalkhare2004/main/hello-white.gif" />
+  <img src="https://raw.githubusercontent.com/pranjalkhare2004/pranjalkhare2004/main/hello-white.gif" alt="Hello Pranjal" style="max-width:100%; background-color: white;" height="220"/>
 </div>
 
 
-###
+<br>
 
-<br clear="both">
+<!-- Intro Section -->
+<h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Pranjal Khare</span></h1>
+<p>
+  <em>🎓 Student at <a href="https://vitbhopal.ac.in/">VIT Bhopal University</a> 
+  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">
+  <br>
+  💻 Aspiring Developer | Tech Explorer | Soon-to-be Software Engineer 
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
+  </em>
+</p>
 
-<img align="left" height="80" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTFpZ2t4cGhpYmF2bGxtMzVlano3dXZzbHlzMjF2bWNia3dkbnJ0YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/oevHmZhdvnm5yuQdPX/giphy.gif"  />
+<p align="left">
+  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:your.email@example.com">
+    <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
+  </a>
+  <a href="https://github.com/your-github-username">
+    <img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social" />
+  </a>
+  <a href="https://your-portfolio-link.com">
+    <img src="https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=GitHub&logoColor=white" />
+  </a>
+</p>
 
-###
+<h3 align="center">👨‍🎓 A Tech Explorer | Student | Future Developer | Lifelong Learner</h3>
 
-<h1 align="left">Hi ! I'm Pranjal Khare</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=00bfff&center=true&vCenter=true&width=435&lines=Exploring+Code+Every+Day;Learning+New+Tech+One+Step+at+a+Time;Future+Software+Developer;Eager+to+Build+%26+Create;Let's+Grow+Together" alt="Typing SVG" />
+</div>
 
+---
+
+<!-- Snapshot Section -->
 ### 🧠 My Developer Snapshot
-
 ```javascript
 const pranjal = {
   pronouns: "he" | "him",
-  learning: ["C++", "Data Structures & Algorithms", "Web Development"],
+  learning: ["C++", "DSA", "Web Development"],
   languages: ["C", "C++", "Python", "Java", "JavaScript", "HTML", "CSS"],
-  tools: ["VS Code", "Git", "GitHub", "Linux", "Postman", "React (beginner)"],
-  interests: ["Cyber Security", "Digital Forensics", "Problem Solving"],
-  currentChallenge: "#100DaysOfCode — learning C++ and DSA every day!"
+  tools: ["VS Code", "Git", "GitHub", "Postman", "Linux", "React"],
+  interests: ["Cyber Security", "Digital Forensics", "Frontend Magic"],
+  currentChallenge: "#100DaysOfCode — learning C++ and DSA daily!"
 }
 ```
 <br clear="both">
+<h2 align="center">🛠️ Tech Stack</h2>
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=dynamodb" height="40" alt="amazondynamodb logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=github" height="40" alt="github logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=matlab" height="40" alt="matlab logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=latex" height="40" alt="latex logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=gcp" height="40" alt="googlecloud logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=kubernetes" height="40" alt="kubernetes logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nginx" height="40" alt="nginx logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nextjs" height="40" alt="nextjs logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=netlify" height="40" alt="netlify logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=nestjs" height="40" alt="nestjs logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgresql logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=stackoverflow" height="40" alt="stackoverflow logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=tailwind" height="40" alt="tailwindcss logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vercel" height="40" alt="vercel logo"  />
-  <img width="14" />
-  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
-  <img width="14" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
-</div>
-
-###
-
-<img src="https://raw.githubusercontent.com/pranjalkhare2004/pranjalkhare2004/output/snake.svg" alt="Snake animation" />
-
-###
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,java" alt="Tech Stack" />
+</p>
+## 🛠️ My Tech Stack
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=pranjalkhare2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=false" height="150" alt="languages graph"  />
-  <img src="https://streak-stats.demolab.com?user=pranjalkhare2004&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
+
+
+### GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalkhare2004&show_icons=true&theme=codeSTACKr&border_radius=10&hide_border=false" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranjalkhare2004&layout=compact&theme=codeSTACKr&hide_border=false&card_width=320" height="180"/>
+</div>
+
+
+### 🏆 GitHub Streak & Achievements
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=pranjalkhare2004&theme=codeSTACKr&hide_border=false" height="150"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=pranjalkhare2004&theme=algolia&row=1&margin-w=15&no-bg=true&no-frame=true" height="150"/>
+</div>
+
+
+### 🐍 Activity Graph
+<img src="https://raw.githubusercontent.com/pranjalkhare2004/pranjalkhare2004/output/snake.svg" alt="Snake Animation" />
+
+### 🌐 Let's Connect
+<div align="center">
+  <a href="https://www.linkedin.com/in/pranjalkhare16/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="40"/></a>
+  <a href="https://x.com/pranjal1604" target="_blank"><img src="https://skillicons.dev/icons?i=twitter" height="40"/></a>
+  <a href="mailto:pranjalkhare2004@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" height="40"/></a>
+  <a href="https://discord.com/users/pranjal16204" target="_blank"><img src="https://skillicons.dev/icons?i=discord" height="40"/></a>
+</div>
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjalkhare2004&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=pranjalkhare2004&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
+  <em><b>Just a student on a coding adventure 💻</b><br>Always open to learning, building, and growing 🚀</em>
 </div>
 
-###
-
+<!-- Visitor Badge -->
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranjalkhare2004.pranjalkhare2004&left_text=Visitors"  />
-</div>
-
-
-###
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/pranjalkhare16/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://x.com/pranjal1604" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
-  </a>
-  <a href="discord.com/users/pranjal16204" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
-  </a>
-  <a href="pranjalkhare2004@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  </a>
-</div>
-
-###
-<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
-  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
-  <em><b>Love meeting curious minds!</b> Drop a hi — let’s connect and grow together 🚀</em>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranjalkhare2004.pranjalkhare2004&left_text=Visitors" />
 </div>
 
 
