@@ -1,5 +1,6 @@
-<div align="center">
-  <img src="https://raw.githubusercontent.com/pranjalkhare2004/pranjalkhare2004/main/hello-white.gif" alt="Hello Pranjal" style="max-width:100%; background-color: white;" height="220"/>
+<div align="center" style="background-color: white; padding: 12px; border-radius: 20px; box-shadow: 0 0 10px rgba(0, 0, 0, 0.3); display: inline-block;">
+  <img src="https://raw.githubusercontent.com/pranjalkhare2004/pranjalkhare2004/main/hello-white.gif" alt="Hello Pranjal" 
+       style="height: 220px; border-radius: 20px;" />
 </div>
 
 
