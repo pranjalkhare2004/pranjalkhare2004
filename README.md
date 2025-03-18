@@ -1,6 +1,7 @@
-<div align="center" style="background-color: white; padding: 10px;">
-  <img height="200" src="https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif" />
+<div align="center">
+  <img height="200" src="https://raw.githubusercontent.com/pranjalkhare2004/pranjalkhare2004/main/hello-white.gif" />
 </div>
+
 
 ###
 
