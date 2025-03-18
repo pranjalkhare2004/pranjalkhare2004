@@ -9,7 +9,6 @@
 <h1 align="center">Hi 👋, I'm <span style="color:#00bfff">Pranjal Khare</span></h1>
 <p>
   <em>🎓 Student at <a href="https://vitbhopal.ac.in/">VIT Bhopal University</a> 
-  <img src="https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif" width="30">
   <br>
   💻 Aspiring Developer | Tech Explorer | Soon-to-be Software Engineer 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30">
@@ -17,13 +16,13 @@
 </p>
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin-username" target="_blank">
+  <a href="https://www.linkedin.com/in/pranjalkhare16" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:pranjalkhare2004@gmail.com">
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
-  <a href="https://github.com/your-github-username">
+  <a href="https://github.com/pranjalkhare2004">
     <img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social" />
   </a>
   <a href="https://your-portfolio-link.com">
@@ -52,24 +51,43 @@ const pranjal = {
 }
 ```
 <br clear="both">
-<h2 align="center">🛠️ Tech Stack</h2>
+<h2>🚀 Tech Stack I Play With</h2>
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,python,cpp,java" alt="Tech Stack" />
+<!-- 💻 Programming Languages -->
+<h3>💻 Languages</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,go,js,ts,html,css,matlab,latex" height="40" />
 </p>
-## 🛠️ My Tech Stack
 
-<div align="center">
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/redux-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/nodejs-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/express-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
-  <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" />
-</div>
+<!-- 🔧 Frameworks & Libraries -->
+<h3>🧩 Frameworks & Libraries</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nestjs,tailwind,redux,bootstrap,threejs" height="40" />
+</p>
+
+<!-- ☁️ DevOps, Cloud & Deployment -->
+<h3>☁️ DevOps | Cloud | Deployment</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,kubernetes,nginx,netlify,vercel" height="40" />
+</p>
+
+<!-- 🛢️ Databases -->
+<h3>🛢️ Databases</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,dynamodb,redis" height="40" />
+</p>
+
+<!-- 🧠 Tools & IDEs -->
+<h3>🛠️ Tools | IDEs | Platforms</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,figma,git,github,stackoverflow,linux,terminal" height="40" />
+</p>
+
+<!-- 🔍 Others -->
+<h3>🔍 Others / Special Mentions</h3>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,graphql,supabase,prisma,jest" height="40" />
+</p>
 
 
 
@@ -104,10 +122,7 @@ const pranjal = {
   <em><b>Just a student on a coding adventure 💻</b><br>Always open to learning, building, and growing 🚀</em>
 </div>
 
-<!-- Visitor Badge -->
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranjalkhare2004.pranjalkhare2004&left_text=Visitors" />
-</div>
+
 
 
 
