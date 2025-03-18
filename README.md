@@ -12,8 +12,18 @@
 
 <h1 align="left">Hi ! I'm Pranjal Khare</h1>
 
-###
+### 🧠 My Developer Snapshot
 
+```javascript
+const pranjal = {
+  pronouns: "he" | "him",
+  learning: ["C++", "Data Structures & Algorithms", "Web Development"],
+  languages: ["C", "C++", "Python", "Java", "JavaScript", "HTML", "CSS"],
+  tools: ["VS Code", "Git", "GitHub", "Linux", "Postman", "React (beginner)"],
+  interests: ["Cyber Security", "Digital Forensics", "Problem Solving"],
+  currentChallenge: "#100DaysOfCode — learning C++ and DSA every day!"
+}
+```
 <br clear="both">
 
 <div align="left">
