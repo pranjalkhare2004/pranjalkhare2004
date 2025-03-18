@@ -1,5 +1,5 @@
-<div align="center">
-  <img height="200" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTVvcHY4emQzbHNneGlhZXNndjBueGRkNDQ0Z3h2dWt3eWltbmttbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26xBukhJ0i8KXADYc/giphy.gif"  />
+<div align="center" style="background-color: white; padding: 10px;">
+  <img height="200" src="https://user-images.githubusercontent.com/26146907/193597966-b9fab9ac-5f43-4aa2-b43d-0bb3a9d10955.gif" />
 </div>
 
 ###
@@ -103,6 +103,20 @@ const pranjal = {
   <img src="https://streak-stats.demolab.com?user=pranjalkhare2004&locale=en&mode=weekly&theme=codeSTACKr&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
 </div>
 
+
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranjalkhare2004&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-profile-trophy.vercel.app?username=pranjalkhare2004&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranjalkhare2004.pranjalkhare2004&left_text=Visitors"  />
+</div>
+
+
 ###
 
 <div align="left">
@@ -121,24 +135,10 @@ const pranjal = {
 </div>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranjalkhare2004&hide_title=false&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=pranjalkhare2004&theme=darkhub&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=true&order=4" height="150" alt="trophy graph"  />
+<div align="center" style="display: flex; align-items: center; justify-content: center; gap: 10px;">
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60" />
+  <em><b>Love meeting curious minds!</b> Drop a hi — let’s connect and grow together 🚀</em>
 </div>
 
-###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pranjalkhare2004.pranjalkhare2004&left_text=Visitors"  />
-</div>
 
-###
-
-<div align="center">
-  <a href="https://open.spotify.com/user/31en4likq63fxosn5smitdtqv4ce">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=31en4likq63fxosn5smitdtqv4ce&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
