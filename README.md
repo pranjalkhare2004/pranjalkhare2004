@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white" />
   </a>
   <a href="https://github.com/pranjalkhare2004">
-    <img src="https://img.shields.io/github/followers/your-github-username?label=Follow&style=social" />
+    <img src="https://img.shields.io/github/followers/pranjalkhare2004?label=Follow&style=social" />
   </a>
   <a href="https://your-portfolio-link.com">
     <img src="https://img.shields.io/badge/-Portfolio-24292e?style=flat-square&logo=GitHub&logoColor=white" />
