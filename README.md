@@ -145,7 +145,20 @@ const pranjal = {
 
 <br>
 
+## 💬 **Join the Community** 🌟
 
+Want to connect with like-minded coders, get advice, share resources, and engage in discussions? Join the **Coder's Hub** Discord server! 🚀
+
+🎉 **Why join us?**
+- 💡 Share and discover coding resources
+- 🧑‍💻 Collaborate with other passionate developers
+- 🎯 Participate in coding challenges and projects
+- 🤝 Help each other grow and succeed
+
+[![Discord](https://img.shields.io/badge/Join%20Coder's%20Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Nuqh6NE2)  
+Click the badge to join the **Coder's Hub** and level up your coding skills! 💥
+
+---
 
 <div align="center">
   <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"/>
