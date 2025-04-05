@@ -155,7 +155,7 @@ Want to connect with like-minded coders, get advice, share resources, and engage
 - 🎯 Participate in coding challenges and projects
 - 🤝 Help each other grow and succeed
 
-[![Discord](https://img.shields.io/badge/Join%20Coder's%20Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/Nuqh6NE2)  
+[![Discord](https://img.shields.io/badge/Join%20Coder's%20Hub-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/B8v3wZ2jPh)  
 Click the badge to join the **Coder's Hub** and level up your coding skills! 💥
 
 ---
